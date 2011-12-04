@@ -1,9 +1,12 @@
-This tool is a quick hack that lets me copy photos from flickr to facebook.
-It requires a 
+This tool is a quick hack that lets me copy photos from flickr to
+facebook. I... don't know if this will work for anyone else. 
 
-name-map.txt should be a file formatted like:
+If you have a name-map.txt, a file formatted like:
 
 tag: facebookuserid
+
+Then it will map any photos you have tagged with that text to tag the
+person.
 
 Facebook User IDs got a bit harder to find when they switched to username
 based links; if you search in the profile page for the text:
